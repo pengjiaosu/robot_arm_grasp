@@ -1,0 +1,4 @@
+<launch>
+  <!-- Launch MoveIt demo_gazebo.launch -->
+  <include file="$(find ar3_moveit)/launch/demo_gazebo.launch"/>
+</launch>

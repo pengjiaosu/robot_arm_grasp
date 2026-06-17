@@ -1,0 +1,15 @@
+material Number/Two
+{
+  technique
+  {
+    pass
+    {
+      ambient 1 1 0 1
+      diffuse 1 1 0 1
+      texture_unit
+      {
+        texture number2.png
+      }
+    }
+  }
+}

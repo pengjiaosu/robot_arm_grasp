@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="ar3_control" type="controller" name="controller" output="screen" />
+  <node pkg="grasp_object" type="grasp_obj" name="grasp_obj" output="screen" />
+  <node pkg="yolo" type="detect.py" name="detect" output="screen" />
+</launch>
