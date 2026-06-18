@@ -1,3 +1,5 @@
+![video](https://github.com/user-attachments/assets/0c4f755e-c724-4550-b428-86e40f6afbaf)
+
 # 项目运行与环境配置说明
 
 ## 1. 项目运行环境
