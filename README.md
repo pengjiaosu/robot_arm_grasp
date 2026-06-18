@@ -1,4 +1,4 @@
-![video](https://github.com/user-attachments/assets/0c4f755e-c724-4550-b428-86e40f6afbaf)
+![video]([https://github.com/user-attachments/assets/0c4f755e-c724-4550-b428-86e40f6afbaf](https://github.com/user-attachments/assets/710b0524-0003-4dcc-8f0c-d5683d2b66f5))
 
 # 项目运行与环境配置说明
 
