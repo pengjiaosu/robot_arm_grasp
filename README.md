@@ -10,7 +10,9 @@
 > 注意：不建议在虚拟机中运行本项目。虚拟机可能导致图像识别推理时间明显变长，从而影响机械臂抓取任务的正常执行。
 
 ---
-
+![page1](https://github.com/pengjiaosu/robot_arm_grasp/blob/main/图片1.png)
+![page2](https://github.com/pengjiaosu/robot_arm_grasp/blob/main/图片2.png)
+![page3](https://github.com/pengjiaosu/robot_arm_grasp/blob/main/图片3.png)
 ## 2. 配置环境
 
 进入项目文件夹，在项目根目录下打开终端，依次执行以下命令，确保每一步均无报错。
